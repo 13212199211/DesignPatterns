@@ -1,4 +1,4 @@
-package com.wcy.dp.proxy.single;
+package com.wcy.dp.proxy;
 
 import com.wcy.dp.proxy.Movable;
 

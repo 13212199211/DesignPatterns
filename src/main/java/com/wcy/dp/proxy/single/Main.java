@@ -1,6 +1,7 @@
 package com.wcy.dp.proxy.single;
 
 import com.wcy.dp.proxy.Movable;
+import com.wcy.dp.proxy.Tank;
 
 public class Main {
     public static void main(String[] args) {
